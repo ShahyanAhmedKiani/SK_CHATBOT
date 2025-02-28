@@ -7,7 +7,7 @@
 ## ✅ Secure API Integration – Connects with Groq API for seamless communication.
 ## 📌 How to Use
 ### Clone this repository:
-git clone https://github.com/your-username/SK-Chatbot.git
+git clone https://github.com/ShahyanAhmedKiani/SK-Chatbot.git
 cd SK-Chatbot
 ### Install dependencies:
 pip install -r requirements.txt
